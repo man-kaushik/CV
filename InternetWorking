@@ -12,3 +12,9 @@ and then web server sends us back the req. data
 
 CHECK  THIS IP
 216.58.210.46   (GOOGLE HOME PAGE)
+
+How does Website Work?
+We receive 3 files for a website
+-HTML
+-CSS
+-JS
