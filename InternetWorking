@@ -1,0 +1,14 @@
+Client request a service
+request send to ISP
+ISP ask DNS and DNS will look for IP(address for ur computer)
+-And when DNS server finds IP it send that backs to CLient
+
+next thing
+- send a direct req to that address and then via ISP it is send to
+INTERNET BACKBONE
+
+and then through that we send req to web server via internet-backbone
+and then web server sends us back the req. data
+
+CHECK  THIS IP
+216.58.210.46   (GOOGLE HOME PAGE)
