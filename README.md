@@ -1,4 +1,4 @@
 
 # CV
 
-Just simple CV built using HTML
+Just simple CV built using HTML & little CSS
