@@ -1,0 +1,36 @@
+display:block //covers whole page
+display:inline /covers the size
+display:inline-block //covers the height and width
+
+display:none     //not visible and no space is taken
+-->alternative is 
+visibility:hidden //element hise but space will be there for that element
+
+
+z-AXIS
+=======
+children element sit on top of parent element
+
+POSITION - 
+============= 
+            STATIC - (DEFAULT)
+
+            RELATIVE - from where it would have been in static POSITION
+            (LEFT 30PX MEANS pushed 30px space from left   [top left bottom right]),
+            [no effect on any other element]
+
+            ABSOLUTE - relative to parent  (then it is not considered in flow - can move anywhere)
+            adds margin a 30px inside parent element
+
+            FIXED - sticks to POSITION mentioned
+
+Center
+=======
+text-align:Center
+elements not having   width  will be centered
+  [works with inline-block(img) element and block(h1,p) element]
+
+centering using margin
+========================
+auto will keep it center
+
