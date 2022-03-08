@@ -34,3 +34,10 @@ centering using margin
 ========================
 auto will keep it center
 
+
+Font-size
+===========
+30px
+%
+em
+rem  (most recommended)
